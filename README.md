@@ -351,7 +351,7 @@
         <div class="benefit-card">
             <div class="card-header">
                 <div class="benefit-badge">혜택 01</div>
-                <h2 class="card-title">상담만 신청하셔도 드리는 <span class="highlight">혜택</span></h2>
+                <h2 class="card-title">상담만 신청하셔도 드리는 혜택</h2>
                 <p class="card-subtitle">지금 EASY 재무회계를 상담 신청만 하시면, 아래 혜택을 모두 챙기실 수 있습니다.</p>
             </div>
             
@@ -385,7 +385,7 @@
         <div class="benefit-card">
             <div class="card-header">
                 <div class="benefit-badge">혜택 02</div>
-                <h2 class="card-title">신규 가입 시 드리는 <span class="highlight">혜택</span></h2>
+                <h2 class="card-title">신규 가입 시 드리는 혜택</span></h2>
                 <p class="card-subtitle">지금 EASY 재무회계를 가입하시면 아래 혜택을 받으실 수 있습니다.</p>
             </div>
             
